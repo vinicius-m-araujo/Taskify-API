@@ -59,3 +59,5 @@ Desenvolvida para **estudo pessoal e portfólio para recrutadores**.
 ![Swagger Screenshot](./docs/Swagger.png)
 
 ---
+
+<!-- sync: repository update -->
